@@ -8,7 +8,7 @@ body{
     width: 100%; 
     text-align: center;
     font-size: 60px ;
-    color: rgb(255, 0, 0);
+    color: rgb(239, 153, 153);
     background-color: blue;
 }
 .heading h3{
@@ -17,4 +17,11 @@ body{
     font-family: 'Bungee Spice', cursive;
     font-family: 'Handjet', cursive;
     font-family: 'Poppins', sans-serif;
+}
+#start ,#status 
+{
+font-size: 24px;
+}
+#start{
+    border: 1px solid white;
 }
